@@ -18,6 +18,7 @@ app.MapGet("/api/contact", async () =>
     return contacts;
     //return await ContactsRepository.GetAsync();
 });
+
 app.MapPost("/api/contact", async (Contact contact) =>
 {
     Console.WriteLine(DateTime.Now + $" - La til kontakten {contact.Name}");
