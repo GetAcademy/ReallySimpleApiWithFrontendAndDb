@@ -16,7 +16,6 @@ UPDATE Contacts
 SET Email = 'pal@gmail.com'
 WHERE Name = 'Pål'
 
-
 -- Delete
 DELETE FROM Contacts
 WHERE Name = 'x'
