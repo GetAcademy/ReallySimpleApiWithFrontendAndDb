@@ -2,9 +2,8 @@
 2. Hva er en relasjonsdatabase?
 3: Eksempel: MS SQL Server
 4: Sette opp kun én tabell for kontakt
-5: Legge til og endre data fra SQL Server Management Studio
-6: Titte på SQL Server Objects Explorer
-7: Lese kontakter fra C# vha. Dapper
-8: Legge til ny kontakt fra C#
-9: Litt om SQL - relasjoner og join - sqlbolt.com
-10: Litt om veien videre i planen. 
+5: Legge til og endre data fra SQL Server Objects Explorer
+6: Lese kontakter fra C# vha. Dapper
+7: Legge til ny kontakt fra C#
+8: Litt om SQL - relasjoner og join - sqlbolt.com
+9: Litt om veien videre i planen. 
