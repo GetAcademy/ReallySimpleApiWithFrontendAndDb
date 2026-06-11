@@ -1,5 +1,5 @@
 1. Hva er problemet med fil-basert lagring?
-2. Hva er en database?
+2. Hva er en relasjonsdatabase?
 3: Eksempel: MS SQL Server
 4: Sette opp kun én tabell for kontakt
 5: Legge til og endre data fra SQL Server Management Studio
